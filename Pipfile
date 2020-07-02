@@ -5,11 +5,13 @@ name = "pypi"
 
 [packages]
 pandas = "*"
-scikit-learn = "==0.23.*"
+cython = "*"
+scikit-learn = "==0.21.*"
 eli5 = "==0.10.*"
 voikko = "*"
 jupyter = "*"
 matplotlib = "*"
+gensim = "*"
 
 [dev-packages]
 
