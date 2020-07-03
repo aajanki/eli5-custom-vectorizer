@@ -2,6 +2,8 @@
 
 See the [notebook](Text%20classifier%20explanations%20with%20a%20custom%20vectorizer.ipynb).
 
+![Example of a highlighted document](images/fi-highlights.png)
+
 ## Setup
 
 Download data and models:
