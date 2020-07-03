@@ -1,6 +1,6 @@
 # eli5 with a custom scikit-learn vectorizer
 
-See the [notebook](Text classifier explanations with a custom vectorizer.ipynb).
+See the [notebook](Text%20classifier%20explanations%20with%20a%20custom%20vectorizer.ipynb).
 
 ## Setup
 
